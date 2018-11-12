@@ -1,0 +1,26 @@
+{
+  "name": "hardware-",
+  "version": "1.0.0",
+  "description": "A Simple Hardware monitor",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "electron": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mart547n/Hardware-.git"
+  },
+  "author": "Martin Sig Nørbjerg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mart547n/Hardware-/issues"
+  },
+  "homepage": "https://github.com/Mart547n/Hardware-#readme"
+}
